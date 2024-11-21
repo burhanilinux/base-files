@@ -1,6 +1,6 @@
-PRETTY_NAME="BurhaniLinux Dhahab Edition (development branch)"
-NAME="Burhanilinux"
-VERSION_ID="6.0"
+PRETTY_NAME="Burhani Linux Dhahab Edition (development branch)"
+NAME="Burhani linux"
+VERSION_ID="24.10"
 VERSION="6.0 (Dhahab Edition)"
 VERSION_CODENAME=dhahab
 ID=ubuntu
